@@ -42,8 +42,8 @@ export const Footer: React.FC = () => (
         ))}
       </div>
       <div className="border-t border-gray-100 dark:border-gray-800 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-        <p className="text-sm text-gray-500">© 2025 Nexus Inc. All rights reserved.</p>
-        <p className="text-sm text-gray-500">Built with ❤️ for developers</p>
+        <p className="text-sm text-gray-500">© 2025 Nexus management.com . All rights reserved.</p>
+        <p className="text-sm text-gray-500">Built by Beamlak Tesfahun</p>
       </div>
     </div>
   </footer>
