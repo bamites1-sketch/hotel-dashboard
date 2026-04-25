@@ -91,10 +91,24 @@
 ### 📸 **Live Preview**
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here" alt="Gebeya Screenshot" width="80%">
+  <img src="./gebeya-homepage.png" alt="Gebeya Homepage" width="90%">
 </p>
 
-> 💡 **Pro tip:** Take a screenshot of your live site and upload it to this repo, then replace the link above!
+#### Homepage Preview
+*Experience Ethiopian culture at gebeya-b.vercel.app*
+
+<div align="center">
+  
+| Category | Products |
+|----------|----------|
+| 👘 Traditional Clothing | Handwoven Tibeb, Habesha Kemis |
+| 🏺 Handmade Crafts | Pottery, Basket weaving |
+| 🎭 Cultural Items | Coffee ceremony sets, Crosses |
+| 🍽️ Food & Drink | Ethiopian coffee, Honey wine |
+| 🥁 Musical Instruments | Kebero, Masenqo, Krar |
+| 💎 Accessories | Beaded jewelry, Cross necklaces |
+
+</div>
 
 ---
 
