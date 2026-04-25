@@ -1,4 +1,4 @@
-### ✨ **What Makes Gebeya Special?**
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=40&duration=3000&pause=500&color=AF5C2B&center=true&vCenter=true&width=600&lines=Gebeya;Ethiopian+Cultural+Marketplace;ባህል+የኢትዮጵያ" alt="Typing title" />✨ **What Makes Gebeya Special?**
 
 <div align="center">
 
