@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=36&duration=3000&pause=500&color=AF5C2B&center=true&vCenter=true&width=500&lines=ገበያ;Gebeya;Ethiopian+Cultural+Marketplace" alt="Typing title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=40&duration=3000&pause=500&color=AF5C2B&center=true&vCenter=true&width=600&lines=ገበያ;Gebeya;Ethiopian+Cultural+Marketplace;ባህል+የኢትዮጵያ" alt="Typing title" />
 </h1>
 
 <p align="center">
@@ -25,9 +25,27 @@
 
 ### 🌍 *"Authentic. Cultural. Timeless. Delivering Culture Worldwide"*
 
-| 🇪🇹 Proudly Made in Ethiopia | 🎨 Handmade with love | 📦 Worldwide Delivery |
-|:--------------------------:|:--------------------:|:--------------------:|
-| Rooted in tradition | 6+ regions supported | Secure & fast shipping |
+<div align="center">
+
+| 🇪🇹 **Proudly Made in Ethiopia** | 🎨 **Handmade with love** | 📦 **Worldwide Delivery** |
+|:------------------------------:|:-------------------------:|:-------------------------:|
+| Rooted in tradition | ♾️ Infinite artisans supported | Secure & fast shipping |
+
+</div>
+
+---
+
+### 🗣️ **Speaks Your Language**
+
+<div align="center">
+  
+| አማርኛ | English | Oromiffa | ትግርኛ |
+|:-----:|:-------:|:--------:|:-----:|
+| 🇪🇹 | 🇬🇧 | 🇪🇹 | 🇪🇹 |
+
+**4 languages** | One culture | Global reach
+
+</div>
 
 ---
 
@@ -35,9 +53,9 @@
 
 <div align="center">
 
-| 🤝 **0+ Artisans** | 🛍️ **0+ Products** | 📍 **0 Regions** | ✅ **0% Authentic** |
-|:----------------:|:----------------:|:--------------:|:----------------:|
-| Supporting local talent | Ethiopian heritage | Connected nationwide | Guaranteed genuine |
+| 🤝 **♾️ Artisans** | 🛍️ **25+ Products** | 📍 **6 Regions** | ✅ **99% Authentic** |
+|:----------------:|:------------------:|:--------------:|:-------------------:|
+| Infinite local talent | Ethiopian heritage | Connected nationwide | Guaranteed genuine |
 
 </div>
 
@@ -48,10 +66,11 @@
 ### 🛠️ **Tech Stack**
 
 <div align="center">
-  
+
 | React | Tailwind | Node.js | Express | MySQL | Vercel |
 |:-----:|:--------:|:-------:|:-------:|:-----:|:------:|
 | ⚛️ | 🎨 | 🟢 | 🚂 | 🐬 | ▲ |
+| Frontend | Styling | Backend | API | Database | Hosting |
 
 </div>
 
@@ -59,12 +78,23 @@
 
 ### 🎯 **Key Features**
 
-- ✅ **Authentic Products** – Direct from Ethiopian artisans  
-- 🌍 **Worldwide Delivery** – Share Ethiopian culture globally  
-- 🔒 **Secure Payments** – 100% safe checkout  
-- 💬 **Customer Support** – Dedicated help for every buyer  
-- 📦 **Fast Shipping** – Tracked & reliable delivery  
-- 🔄 **Easy Returns** – Hassle-free policy  
+| Category | Features |
+|----------|----------|
+| 🛍️ **Products** | ✅ Authentic Ethiopian crafts • 🎁 Handmade gifts • ☕ Coffee ceremony sets • 👗 Habesha kemis • 🖼️ Tibeb textiles |
+| 🌍 **Delivery** | 📦 Worldwide shipping • 🔒 Secure packaging • 📱 Real-time tracking • 🚚 Fast delivery |
+| 💳 **Payment** | 💵 Ethiopian Birr (ETB) • 💳 International cards • 🔐 SSL secure • 🏦 Chapa integration |
+| 🗣️ **Language** | አማርኛ • English • Oromiffa • ትግርኛ |
+| 🛡️ **Guarantee** | ✅ 99% authentic • ↩️ Easy returns • 💬 24/7 support |
+
+---
+
+### 📸 **Live Preview**
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here" alt="Gebeya Screenshot" width="80%">
+</p>
+
+> 💡 **Pro tip:** Take a screenshot of your live site and upload it to this repo, then replace the link above!
 
 ---
 
@@ -76,6 +106,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+---
+
+### 📁 **Project Structure**
